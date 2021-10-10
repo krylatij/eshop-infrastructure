@@ -1,0 +1,7 @@
+env = "dev"
+prefix = "eshop-dev-paid"
+prefix_alphanum = "eshopdevpaid"
+location = "westeurope"
+
+aks_nodes = 3
+aks_tier = "Standard_DS2_v2"
